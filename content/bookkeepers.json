@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-13",
+  "slug": "bookkeepers",
+  "short": "Bookkeepers",
+  "title": "Find a Bookkeeper for Your Small Business | Free Quotes",
+  "description": "Compare quotes from bookkeepers for day-to-day bookkeeping, bank reconciliation, invoicing, payroll and VAT returns. Remote and local bookkeeping services.",
+  "keywords": [
+    "bookkeepers",
+    "bookkeeper near me",
+    "find a bookkeeper",
+    "bookkeeper for small business",
+    "hire a bookkeeper"
+  ],
+  "cardText": "Recording sales, purchases and expenses · Bank and credit-card reconciliation · Invoicing and chasing payments",
+  "eyebrow": "Finance",
+  "h1": "Find a reliable bookkeeper for your business",
+  "intro": "Clean, up-to-date books make tax time painless and help you understand how your business is really doing. Get matched with bookkeepers who can take the admin off your hands — whether remotely or in person.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1707902665498-a202981fb5ac",
+    "alt": "Person at a desk with a calculator and a notebook",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "searchPlaceholder": "Search services, e.g. “payroll” or “contracts”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe what you need once and hear back from bookkeepers. No fee to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, approach and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "You only hire if you find the right fit. You deal directly with the professional."
+    }
+  ],
+  "partnersTitle": "Get free quotes from bookkeepers",
+  "sections": [
+    {
+      "h2": "What can a bookkeeper help with?",
+      "html": "<ul><li>Recording sales, purchases and expenses</li><li>Bank and credit-card reconciliation</li><li>Invoicing and chasing payments</li><li>Payroll processing</li><li>Preparing VAT or sales tax returns</li><li>Setting up cloud accounting software</li></ul>"
+    },
+    {
+      "h2": "When should you hire a bookkeeper?",
+      "html": "<ul><li>You are behind on your books or dreading tax season</li><li>You spend evenings and weekends on admin</li><li>You want monthly figures to manage cash flow</li><li>You are moving to cloud accounting software</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<p>When you compare quotes, these questions help you find the right fit:</p><ol><li>Which accounting software are you experienced with?</li><li>Do you work remotely or on-site?</li><li>Are you certified by or a member of a professional body (such as AIPB in the US, or ICB or AAT in the UK)?</li><li>How do you charge — hourly, monthly or per transaction?</li></ol>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Every business and project is different, so prices vary. The main factors are:</p><ul><li>Volume of transactions each month</li><li>Frequency (weekly, monthly, quarterly)</li><li>Additional services such as payroll or VAT</li><li>Whether there is a backlog to catch up on</li></ul><p>The simplest way to understand the cost for your situation is to compare a few quotes side by side.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often should a bookkeeper update my books?",
+      "a": "Most small businesses benefit from monthly bookkeeping. Busier businesses may prefer weekly updates."
+    },
+    {
+      "q": "Can a bookkeeper work remotely?",
+      "a": "Yes. With cloud accounting software, many bookkeepers work entirely remotely, giving you a wider choice of professionals."
+    },
+    {
+      "q": "Can a bookkeeper file my tax return?",
+      "a": "Some can, but year-end accounts and tax returns are usually prepared by an accountant. Your bookkeeper’s records make that job faster and cheaper."
+    }
+  ],
+  "faqTitle": "Bookkeepers: frequently asked questions",
+  "related": [
+    "accountants",
+    "business-consultants",
+    "it-support",
+    "how-it-works"
+  ],
+  "relatedTitle": "Related services",
+  "ctaTitle": "What else does your business need help with?"
+}

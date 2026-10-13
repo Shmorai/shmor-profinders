@@ -1,0 +1,37 @@
+{
+  "updated": "2026-10-13",
+  "slug": "services",
+  "nav": "All services",
+  "navOrder": 1,
+  "title": "Business Services Directory: HR, Legal, Finance & IT",
+  "description": "Browse professional services for business: HR, employment and commercial law, accounting, bookkeeping, marketing, web design, consulting and IT support.",
+  "eyebrow": "Directory",
+  "h1": "All professional services",
+  "intro": "Pick the type of professional you need. Each guide explains what they do, when to hire one and what to ask, then helps you compare free quotes.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+    "alt": "Team working together on laptops",
+    "credit": "Annie Spratt",
+    "creditUrl": "https://unsplash.com/@anniespratt"
+  },
+  "keywords": [
+    "business services",
+    "professional services",
+    "b2b services directory",
+    "find a professional"
+  ],
+  "cardText": "Every service we cover, from HR and legal to finance, marketing and IT.",
+  "related": [
+    "hr-consultants",
+    "employment-lawyers",
+    "business-lawyers",
+    "accountants",
+    "bookkeepers",
+    "social-media-marketing",
+    "web-designers",
+    "business-consultants",
+    "it-support"
+  ],
+  "relatedTitle": "Choose a service",
+  "ctaTitle": "Can’t see what you need? Search"
+}

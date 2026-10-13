@@ -1,15 +1,107 @@
 {
+  "updated": "2026-10-13",
   "slug": "",
-  "title": "ProFinders: HR consultants, lawyers, accountants, marketers ",
-  "description": "HR consultants, lawyers, accountants, marketers and IT support for your business. Compare free quotes. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "ProFinders",
-  "intro": "HR consultants, lawyers, accountants, marketers and IT support for your business. Compare free quotes.",
-  "related": [],
+  "title": "ProFinders: Find HR, Legal, Finance & Marketing Pros",
+  "description": "Find and compare HR consultants, employment lawyers, accountants, bookkeepers, marketers, web designers and IT support. Free quotes, no obligation.",
+  "eyebrow": "Professional services for growing businesses",
+  "h1": "Find the right professional for your business, without the legwork.",
+  "h1Html": "Find the right professional for your business, <span class=\"hl\">without the legwork.</span>",
+  "intro": "Compare free, no-obligation quotes from HR consultants, lawyers, accountants, marketers and more, for businesses in the US, UK and Europe. One simple request, multiple experts.",
+  "searchPlaceholder": "What do you need help with? e.g. HR, accountant…",
+  "chips": [
+    {
+      "label": "HR consultants",
+      "slug": "hr-consultants"
+    },
+    {
+      "label": "Employment lawyers",
+      "slug": "employment-lawyers"
+    },
+    {
+      "label": "Accountants",
+      "slug": "accountants"
+    },
+    {
+      "label": "Social media",
+      "slug": "social-media-marketing"
+    },
+    {
+      "label": "Web designers",
+      "slug": "web-designers"
+    },
+    {
+      "label": "IT support",
+      "slug": "it-support"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
+    "alt": "Business team in a meeting around a table",
+    "credit": "Dylan Gillis",
+    "creditUrl": "https://unsplash.com/@mainermedia"
+  },
+  "highlightsTitle": "Why businesses start their search here",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Requesting quotes costs nothing, for businesses and individuals alike."
+    },
+    {
+      "title": "Compare options",
+      "text": "Hear from more than one professional, so you can compare experience and price."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if it’s the right fit. You agree terms directly with the professional."
+    },
+    {
+      "title": "Saves time",
+      "text": "One request instead of dozens of searches, contact forms and phone calls."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use ProFinders?",
-      "html": "<p>HR consultants, lawyers, accountants, marketers and IT support for your business. Compare free quotes.</p>"
+      "h2": "Professional help for every part of your business",
+      "html": "<ul><li><strong>People and legal:</strong> <a href=\"/hr-consultants/\">HR consultants</a>, <a href=\"/employment-lawyers/\">employment lawyers</a> and <a href=\"/business-lawyers/\">business and commercial lawyers</a>.</li><li><strong>Finance:</strong> <a href=\"/accountants/\">accountants</a> and <a href=\"/bookkeepers/\">bookkeepers</a>.</li><li><strong>Marketing and digital:</strong> <a href=\"/social-media-marketing/\">social media marketing</a> and <a href=\"/web-designers/\">web designers</a>.</li><li><strong>Operations and growth:</strong> <a href=\"/business-consultants/\">business consultants</a> and <a href=\"/it-support/\">IT support</a>.</li></ul>"
+    },
+    {
+      "h2": "Not sure who you need?",
+      "html": "<ul><li><strong>Staff issue or disciplinary?</strong> Start with an <a href=\"/hr-consultants/\">HR consultant</a>. If a claim is likely, speak to an <a href=\"/employment-lawyers/\">employment lawyer</a>.</li><li><strong>Tax, VAT or year-end accounts?</strong> You need an <a href=\"/accountants/\">accountant</a>. For day-to-day records, a <a href=\"/bookkeepers/\">bookkeeper</a>.</li><li><strong>Need more customers?</strong> Look at <a href=\"/social-media-marketing/\">social media marketing</a> and <a href=\"/web-designers/\">web design</a>.</li></ul>"
+    },
+    {
+      "h2": "How to choose a professional you can trust",
+      "html": "<ul><li><strong>Check credentials.</strong> Lawyers should be licensed by a state bar (US) or regulated by the SRA or their national law society (UK/EU). Accountants are often CPAs (US) or members of ICAEW, ACCA or CIMA (UK).</li><li><strong>Read independent reviews</strong> and ask for references from similar businesses.</li><li><strong>Agree scope and price in writing</strong> before work starts.</li><li><strong>Compare at least two or three quotes.</strong></li></ul>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is ProFinders free to use?",
+      "a": "Yes. Requesting quotes through ProFinders is free, with no obligation to hire."
+    },
+    {
+      "q": "How does ProFinders make money?",
+      "a": "Some links are referral links. When we introduce you to a partner platform, the partner may pay us a fee. This never changes what you pay."
+    },
+    {
+      "q": "Are the professionals vetted by ProFinders?",
+      "a": "No. Professionals are independent businesses listed with our partner platforms. Always check qualifications, licensing, reviews and references before you hire."
+    },
+    {
+      "q": "Does ProFinders work in the US, UK and Europe?",
+      "a": "Yes. Our guides cover the US, UK and Europe, and we point out where rules and qualifications differ between countries."
+    }
+  ],
+  "related": [
+    "hr-consultants",
+    "employment-lawyers",
+    "business-lawyers",
+    "accountants",
+    "bookkeepers",
+    "social-media-marketing",
+    "web-designers",
+    "business-consultants",
+    "it-support"
+  ],
+  "relatedTitle": "Browse professional services",
+  "ctaTitle": "What does your business need help with?"
 }

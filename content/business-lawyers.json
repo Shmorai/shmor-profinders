@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-13",
+  "slug": "business-lawyers",
+  "short": "Business lawyers",
+  "title": "Find a Business or Commercial Lawyer | Free Quotes",
+  "description": "Compare quotes from commercial lawyers and business solicitors for contracts, company formation, shareholder agreements, terms and conditions and disputes.",
+  "keywords": [
+    "business & commercial lawyers",
+    "business lawyer near me",
+    "find a business lawyer",
+    "business lawyer for small business",
+    "hire a business lawyer"
+  ],
+  "cardText": "Commercial contracts and supplier agreements · Terms and conditions and website terms · Shareholder and partnership agreements",
+  "eyebrow": "People & Legal",
+  "h1": "Find a commercial lawyer for your business",
+  "intro": "From your first contract to selling your company, good legal advice protects what you have built. Describe what you need and get matched with business and commercial lawyers who work with companies like yours.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+    "alt": "Person reviewing and signing a business contract",
+    "credit": "Scott Graham",
+    "creditUrl": "https://unsplash.com/@amstram"
+  },
+  "searchPlaceholder": "Search services, e.g. “payroll” or “contracts”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe what you need once and hear back from business & commercial lawyers. No fee to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, approach and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "You only hire if you find the right fit. You deal directly with the professional."
+    }
+  ],
+  "partnersTitle": "Get free quotes from business & commercial lawyers",
+  "sections": [
+    {
+      "h2": "What can a business lawyer help with?",
+      "html": "<ul><li>Commercial contracts and supplier agreements</li><li>Terms and conditions and website terms</li><li>Shareholder and partnership agreements</li><li>Company formation and restructuring</li><li>Buying or selling a business</li><li>Commercial disputes and debt recovery</li></ul>"
+    },
+    {
+      "h2": "When should you hire a business lawyer?",
+      "html": "<ul><li>You are signing a significant contract or partnership deal</li><li>You are bringing in investors or new shareholders</li><li>You need robust terms of business or website terms</li><li>A customer or supplier dispute is escalating</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<p>When you compare quotes, these questions help you find the right fit:</p><ol><li>Have you handled similar matters for businesses in my sector?</li><li>Can you give a fixed quote for this piece of work?</li><li>What do you need from me to get started?</li><li>What is your typical turnaround time?</li></ol>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Every business and project is different, so prices vary. The main factors are:</p><ul><li>Type and complexity of the document or transaction</li><li>Whether you need drafting, review or negotiation</li><li>Urgency and turnaround time</li><li>Fixed-fee vs. hourly arrangements</li></ul><p>The simplest way to understand the cost for your situation is to compare a few quotes side by side.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between a commercial lawyer and a corporate lawyer?",
+      "a": "Commercial lawyers typically focus on day-to-day trading contracts and relationships, while corporate lawyers focus on company structure, investment, mergers and acquisitions. Many firms do both."
+    },
+    {
+      "q": "Do I really need a lawyer for my contracts?",
+      "a": "For low-value, routine work, templates may be enough. For anything significant, a lawyer can spot risks you might miss and make sure the contract actually protects you."
+    },
+    {
+      "q": "Can I get a fixed fee?",
+      "a": "Many business lawyers offer fixed fees for defined pieces of work such as shareholder agreements or terms and conditions. Ask for this when you compare quotes."
+    }
+  ],
+  "faqTitle": "Business & Commercial Lawyers: frequently asked questions",
+  "related": [
+    "employment-lawyers",
+    "accountants",
+    "business-consultants",
+    "how-it-works"
+  ],
+  "relatedTitle": "Related services",
+  "ctaTitle": "What else does your business need help with?"
+}

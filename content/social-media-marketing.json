@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-13",
+  "slug": "social-media-marketing",
+  "nav": "Social media",
+  "navOrder": 5,
+  "title": "Find a Social Media Manager or Agency | Compare Quotes",
+  "description": "Get quotes from social media managers and marketing agencies for content creation, paid ads, Instagram, TikTok, LinkedIn and Facebook management.",
+  "keywords": [
+    "social media marketing experts",
+    "social media manager near me",
+    "find a social media manager",
+    "social media manager for small business",
+    "hire a social media manager"
+  ],
+  "cardText": "Social media strategy and content calendars · Content creation — posts, reels and short video · Instagram, TikTok, Facebook and LinkedIn management",
+  "eyebrow": "Marketing & Digital",
+  "h1": "Find a social media expert to grow your brand",
+  "intro": "Consistent, well-targeted social media brings in customers — but it takes time and skill. Tell us your goals and get matched with social media managers and agencies who can plan, create and run your channels.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f",
+    "alt": "Person working on a laptop and smartphone",
+    "credit": "Austin Distel",
+    "creditUrl": "https://unsplash.com/@austindistel"
+  },
+  "searchPlaceholder": "Search services, e.g. “payroll” or “contracts”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe what you need once and hear back from social media marketing experts. No fee to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, approach and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "You only hire if you find the right fit. You deal directly with the professional."
+    }
+  ],
+  "partnersTitle": "Get free quotes from social media marketing experts",
+  "sections": [
+    {
+      "h2": "What can a social media manager help with?",
+      "html": "<ul><li>Social media strategy and content calendars</li><li>Content creation — posts, reels and short video</li><li>Instagram, TikTok, Facebook and LinkedIn management</li><li>Paid social advertising campaigns</li><li>Community management and engagement</li><li>Reporting and performance analysis</li></ul>"
+    },
+    {
+      "h2": "When should you hire a social media manager?",
+      "html": "<ul><li>You know you should be posting but never find the time</li><li>Your posts get little engagement or no enquiries</li><li>You want to run paid ads without wasting budget</li><li>You are launching a new product, service or brand</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<p>When you compare quotes, these questions help you find the right fit:</p><ol><li>Can you show results from clients similar to us?</li><li>Which platforms do you specialise in?</li><li>Who creates the content, and how is it approved?</li><li>How will you report on results each month?</li></ol>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Every business and project is different, so prices vary. The main factors are:</p><ul><li>Number of platforms and posts per month</li><li>Whether video or photography is included</li><li>Paid ad management and ad spend</li><li>Freelancer vs. agency</li></ul><p>The simplest way to understand the cost for your situation is to compare a few quotes side by side.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I hire a freelancer or an agency?",
+      "a": "Freelancers are often more flexible and cost-effective for smaller businesses. Agencies offer broader teams and capacity. Comparing quotes from both helps you decide."
+    },
+    {
+      "q": "How long until social media shows results?",
+      "a": "Organic growth typically builds over several months. Paid campaigns can drive traffic much faster. A good specialist will set realistic expectations up front."
+    },
+    {
+      "q": "Which platform is best for my business?",
+      "a": "It depends on where your customers spend time. B2B businesses often focus on LinkedIn, while consumer brands may prioritise Instagram, TikTok or Facebook."
+    }
+  ],
+  "faqTitle": "Social Media Marketing Experts: frequently asked questions",
+  "related": [
+    "web-designers",
+    "business-consultants",
+    "it-support",
+    "how-it-works"
+  ],
+  "relatedTitle": "Related services",
+  "ctaTitle": "What else does your business need help with?"
+}

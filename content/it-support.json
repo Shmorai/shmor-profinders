@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-13",
+  "slug": "it-support",
+  "short": "IT support",
+  "title": "Find IT Support for Your Business | Compare Free Quotes",
+  "description": "Compare quotes from IT support companies and managed service providers for helpdesk support, cyber security, Microsoft 365, backups, networks and cloud.",
+  "keywords": [
+    "IT support providers",
+    "IT support provider near me",
+    "find an IT support provider",
+    "IT support provider for small business",
+    "hire an IT support provider"
+  ],
+  "cardText": "Helpdesk and remote support · Cyber security and data protection · Microsoft 365 and Google Workspace setup",
+  "eyebrow": "Operations & Growth",
+  "h1": "Find dependable IT support for your business",
+  "intro": "When technology fails, work stops. Get matched with IT support companies and managed service providers who can keep your systems secure, backed up and running smoothly — on-site or remotely.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+    "alt": "Network cables connected to a server rack",
+    "credit": "Taylor Vick",
+    "creditUrl": "https://unsplash.com/@tvick"
+  },
+  "searchPlaceholder": "Search services, e.g. “payroll” or “contracts”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe what you need once and hear back from IT support providers. No fee to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, approach and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "You only hire if you find the right fit. You deal directly with the professional."
+    }
+  ],
+  "partnersTitle": "Get free quotes from IT support providers",
+  "sections": [
+    {
+      "h2": "What can an IT support provider help with?",
+      "html": "<ul><li>Helpdesk and remote support</li><li>Cyber security and data protection</li><li>Microsoft 365 and Google Workspace setup</li><li>Backups and disaster recovery</li><li>Networks, Wi-Fi and hardware</li><li>Cloud migration and IT strategy</li></ul>"
+    },
+    {
+      "h2": "When should you hire an IT support provider?",
+      "html": "<ul><li>You rely on a staff member “who is good with computers”</li><li>You have had a security scare or data loss</li><li>You are moving to the cloud or opening a new office</li><li>You need predictable monthly IT costs</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<p>When you compare quotes, these questions help you find the right fit:</p><ol><li>What are your guaranteed response times?</li><li>Do you provide on-site support as well as remote?</li><li>How do you handle cyber security and backups?</li><li>Is support charged per user, per device or per hour?</li></ol>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Every business and project is different, so prices vary. The main factors are:</p><ul><li>Number of users and devices</li><li>Response-time guarantees (SLA)</li><li>Security and backup services included</li><li>Pay-as-you-go vs. managed monthly contract</li></ul><p>The simplest way to understand the cost for your situation is to compare a few quotes side by side.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a managed IT service?",
+      "a": "A managed service provider looks after your IT proactively for a fixed monthly fee — monitoring, patching, security, backups and helpdesk support."
+    },
+    {
+      "q": "Do small businesses need cyber security support?",
+      "a": "Yes. Small businesses are frequent targets of phishing and ransomware. Basic protections and backups are essential, and an IT provider can put them in place."
+    },
+    {
+      "q": "Can IT support be fully remote?",
+      "a": "Most issues can be fixed remotely. Many providers combine remote support with on-site visits when needed."
+    }
+  ],
+  "faqTitle": "IT Support Providers: frequently asked questions",
+  "related": [
+    "web-designers",
+    "business-consultants",
+    "bookkeepers",
+    "how-it-works"
+  ],
+  "relatedTitle": "Related services",
+  "ctaTitle": "What else does your business need help with?"
+}

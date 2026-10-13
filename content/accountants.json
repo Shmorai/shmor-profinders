@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-13",
+  "slug": "accountants",
+  "nav": "Accountants",
+  "navOrder": 4,
+  "title": "Find an Accountant for Your Business | Compare Free Quotes",
+  "description": "Find a qualified accountant for year-end accounts, tax returns, VAT or sales tax, payroll and advice. Compare quotes from small-business accountants.",
+  "keywords": [
+    "accountants",
+    "accountant near me",
+    "find an accountant",
+    "accountant for small business",
+    "hire an accountant"
+  ],
+  "cardText": "Year-end accounts and business tax returns · Personal tax returns for sole traders, freelancers and owners · VAT or sales tax registration and returns",
+  "eyebrow": "Finance",
+  "h1": "Find a qualified accountant for your business",
+  "intro": "A good accountant does far more than file your accounts — they help you pay the right amount of tax, plan ahead and make better decisions. Tell us what you need and compare quotes from accountants who suit your business.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554224154-26032ffc0d07",
+    "alt": "Tax paperwork, a pen and a phone calculator on a desk",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "searchPlaceholder": "Search services, e.g. “payroll” or “contracts”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe what you need once and hear back from accountants. No fee to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, approach and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "You only hire if you find the right fit. You deal directly with the professional."
+    }
+  ],
+  "partnersTitle": "Get free quotes from accountants",
+  "sections": [
+    {
+      "h2": "What can an accountant help with?",
+      "html": "<ul><li>Year-end accounts and business tax returns</li><li>Personal tax returns for sole traders, freelancers and owners</li><li>VAT or sales tax registration and returns</li><li>Payroll and workplace pensions</li><li>Management accounts and cash-flow forecasting</li><li>Tax planning and business advice</li></ul>"
+    },
+    {
+      "h2": "When should you hire an accountant?",
+      "html": "<ul><li>You are setting up a company (LLC, corporation or limited company) or going self-employed</li><li>Tax deadlines and paperwork (IRS, HMRC or your local tax office) are taking too much of your time</li><li>Your business is growing and you need better financial visibility</li><li>You want proactive tax planning, not just compliance</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<p>When you compare quotes, these questions help you find the right fit:</p><ol><li>Are you a CPA (US) or a member of a recognised accountancy body such as ICAEW, ACCA or CIMA (UK)?</li><li>Do you specialise in businesses of my size or sector?</li><li>Which accounting software do you work with?</li><li>Is your fee fixed monthly or charged per job?</li></ol>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Every business and project is different, so prices vary. The main factors are:</p><ul><li>Business structure (sole trader, partnership, LLC or limited company)</li><li>Turnover and number of transactions</li><li>Services needed (VAT, payroll, advisory)</li><li>Quality of your existing records</li></ul><p>The simplest way to understand the cost for your situation is to compare a few quotes side by side.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an accountant as a small business?",
+      "a": "It is not usually a legal requirement, but most incorporated businesses use one. An accountant helps you meet deadlines, avoid penalties and plan your tax efficiently."
+    },
+    {
+      "q": "What is the difference between an accountant and a bookkeeper?",
+      "a": "Bookkeepers record day-to-day transactions. Accountants prepare statutory accounts and tax returns, and give financial and tax advice. Many businesses use both."
+    },
+    {
+      "q": "Can I switch accountants mid-year?",
+      "a": "Yes. Your new accountant will usually contact your previous one for the information they need, so switching is straightforward."
+    }
+  ],
+  "faqTitle": "Accountants: frequently asked questions",
+  "related": [
+    "bookkeepers",
+    "business-consultants",
+    "business-lawyers",
+    "how-it-works"
+  ],
+  "relatedTitle": "Related services",
+  "ctaTitle": "What else does your business need help with?"
+}

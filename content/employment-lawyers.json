@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-13",
+  "slug": "employment-lawyers",
+  "nav": "Employment lawyers",
+  "navOrder": 3,
+  "title": "Find an Employment Lawyer or Attorney | Compare Quotes",
+  "description": "Get matched with employment lawyers for settlement and severance agreements, dismissals, tribunal or court claims and workplace disputes. Free quotes.",
+  "keywords": [
+    "employment lawyers",
+    "employment lawyer near me",
+    "find an employment lawyer",
+    "employment lawyer for small business",
+    "hire an employment lawyer"
+  ],
+  "cardText": "Settlement and severance agreements · Unfair or wrongful dismissal (termination) claims · Tribunal, agency and court representation",
+  "eyebrow": "People & Legal",
+  "h1": "Find an employment lawyer you can trust",
+  "intro": "Employment disputes move quickly and mistakes can be expensive. Whether you are an employer facing a claim or need a settlement agreement reviewed, an employment solicitor can protect your position. Tell us about your situation and compare quotes from qualified professionals.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f",
+    "alt": "Statue of Lady Justice holding scales and a sword",
+    "credit": "Tingey Injury Law Firm",
+    "creditUrl": "https://unsplash.com/@tingeyinjurylawfirm"
+  },
+  "searchPlaceholder": "Search services, e.g. “payroll” or “contracts”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe what you need once and hear back from employment lawyers. No fee to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, approach and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "You only hire if you find the right fit. You deal directly with the professional."
+    }
+  ],
+  "partnersTitle": "Get free quotes from employment lawyers",
+  "sections": [
+    {
+      "h2": "What can an employment lawyer help with?",
+      "html": "<ul><li>Settlement and severance agreements</li><li>Unfair or wrongful dismissal (termination) claims</li><li>Tribunal, agency and court representation</li><li>Discrimination and whistleblowing matters</li><li>Restrictive covenants and contract disputes</li><li>Business transfers, layoffs and redundancy advice</li></ul>"
+    },
+    {
+      "h2": "When should you hire an employment lawyer?",
+      "html": "<ul><li>You have received a claim, such as an employment tribunal claim (UK) or an EEOC charge (US)</li><li>You have been offered, or need to offer, a settlement agreement</li><li>You are dismissing someone and want to minimise legal risk</li><li>A dispute involves discrimination, whistleblowing or a senior employee</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<p>When you compare quotes, these questions help you find the right fit:</p><ol><li>Are you licensed by the state bar (US) or regulated by the SRA or your national bar or law society (UK/EU)?</li><li>How much of your work is employment law specifically?</li><li>Do you offer fixed fees for settlement or severance agreements?</li><li>Who will handle my case day-to-day?</li></ol>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Every business and project is different, so prices vary. The main factors are:</p><ul><li>Fixed-fee vs. hourly billing</li><li>Stage of the dispute (advice, negotiation, tribunal)</li><li>Seniority of the lawyer handling the matter</li><li>Complexity and value of the claim</li></ul><p>The simplest way to understand the cost for your situation is to compare a few quotes side by side.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I speak to an employment lawyer?",
+      "a": "As early as possible — ideally before you take action such as a dismissal, or as soon as you receive a claim. Time limits for employment claims can be short."
+    },
+    {
+      "q": "Who pays for a settlement or severance agreement review?",
+      "a": "In the UK, employers often contribute towards the employee’s legal fees for reviewing a settlement agreement. In the US, employees usually pay for their own review. A lawyer can confirm what applies to you."
+    },
+    {
+      "q": "Can a lawyer represent my business in an employment dispute?",
+      "a": "Yes. Employment lawyers advise businesses and represent them in employment tribunals (UK), labour courts (EU), and agency or court proceedings (US)."
+    }
+  ],
+  "faqTitle": "Employment Lawyers: frequently asked questions",
+  "related": [
+    "hr-consultants",
+    "business-lawyers",
+    "business-consultants",
+    "how-it-works"
+  ],
+  "relatedTitle": "Related services",
+  "ctaTitle": "What else does your business need help with?"
+}

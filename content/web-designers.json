@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-13",
+  "slug": "web-designers",
+  "short": "Web designers",
+  "title": "Find a Web Designer for Your Business | Free Quotes",
+  "description": "Compare quotes from web designers and developers for new websites, redesigns, e-commerce stores, WordPress, Shopify and SEO-friendly business sites.",
+  "keywords": [
+    "web designers",
+    "web designer near me",
+    "find a web designer",
+    "web designer for small business",
+    "hire a web designer"
+  ],
+  "cardText": "New business websites and redesigns · E-commerce stores (Shopify, WooCommerce) · WordPress and Webflow sites",
+  "eyebrow": "Marketing & Digital",
+  "h1": "Find a web designer who builds sites that win customers",
+  "intro": "Your website is often the first impression a customer has of your business. Get matched with web designers who can build a fast, professional, mobile-friendly site that turns visitors into enquiries.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d",
+    "alt": "Desktop computer showing a website design",
+    "credit": "Lee Campbell",
+    "creditUrl": "https://unsplash.com/@leecampbell"
+  },
+  "searchPlaceholder": "Search services, e.g. “payroll” or “contracts”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe what you need once and hear back from web designers. No fee to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, approach and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "You only hire if you find the right fit. You deal directly with the professional."
+    }
+  ],
+  "partnersTitle": "Get free quotes from web designers",
+  "sections": [
+    {
+      "h2": "What can a web designer help with?",
+      "html": "<ul><li>New business websites and redesigns</li><li>E-commerce stores (Shopify, WooCommerce)</li><li>WordPress and Webflow sites</li><li>Landing pages for campaigns</li><li>Search-engine-friendly site structure</li><li>Ongoing maintenance and hosting</li></ul>"
+    },
+    {
+      "h2": "When should you hire a web designer?",
+      "html": "<ul><li>You do not have a website, or it looks out of date</li><li>Your site does not work well on mobile</li><li>You want to sell products online</li><li>Your site gets visitors but few enquiries</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<p>When you compare quotes, these questions help you find the right fit:</p><ol><li>Can I see live examples of sites you have built?</li><li>Will I be able to update the content myself?</li><li>Who owns the site and domain once it is finished?</li><li>Is SEO and ongoing support included?</li></ol>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Every business and project is different, so prices vary. The main factors are:</p><ul><li>Number of pages and features</li><li>Template-based vs. fully custom design</li><li>E-commerce and integrations</li><li>Copywriting, photography and SEO</li></ul><p>The simplest way to understand the cost for your situation is to compare a few quotes side by side.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does it take to build a website?",
+      "a": "A simple business website can take a few weeks; larger or e-commerce sites take longer. Your designer should give you a clear timeline in their quote."
+    },
+    {
+      "q": "Do I need a custom website or a template?",
+      "a": "Templates can be quick and cost-effective. Custom designs suit businesses that need specific features or a distinctive brand."
+    },
+    {
+      "q": "Will my website be mobile friendly?",
+      "a": "It should be. Any professional web designer today builds responsive sites — confirm it when comparing quotes."
+    }
+  ],
+  "faqTitle": "Web Designers: frequently asked questions",
+  "related": [
+    "social-media-marketing",
+    "it-support",
+    "business-consultants",
+    "how-it-works"
+  ],
+  "relatedTitle": "Related services",
+  "ctaTitle": "What else does your business need help with?"
+}

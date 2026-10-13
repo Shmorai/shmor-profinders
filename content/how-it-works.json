@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-13",
+  "slug": "how-it-works",
+  "nav": "How it works",
+  "navOrder": 6,
+  "title": "How ProFinders Works: Free Quotes From Professionals",
+  "description": "How ProFinders helps you find and compare quotes from HR consultants, lawyers, accountants and other business professionals, free and with no obligation.",
+  "eyebrow": "How it works",
+  "h1": "How ProFinders works",
+  "intro": "Hiring a professional shouldn’t mean hours of searching and phone calls. Here’s how ProFinders gets you from problem to quotes.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+    "alt": "Two people shaking hands",
+    "credit": "Cytonn Photography",
+    "creditUrl": "https://unsplash.com/@cytonn_photography"
+  },
+  "search": false,
+  "cardText": "Tell us what you need, get matched, compare quotes. Free and no obligation.",
+  "highlights": [
+    {
+      "title": "1. Tell us what you need",
+      "text": "Choose a service and answer a few quick questions about your business and project."
+    },
+    {
+      "title": "2. Get matched",
+      "text": "We connect your request with partner platforms of independent professionals."
+    },
+    {
+      "title": "3. Compare and choose",
+      "text": "Review responses, compare quotes and experience, and hire only if you’re happy."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What happens after I request quotes?",
+      "html": "<p>When you choose to get quotes, you’re taken to one of our partner platforms to describe your project. Independent professionals who match your request can then contact you or send a quote.</p>"
+    },
+    {
+      "h2": "Do I have to hire anyone?",
+      "html": "<p>No. Requesting quotes is free and there’s no obligation. Compare the responses and only go ahead if you find the right fit.</p>"
+    },
+    {
+      "h2": "How we make money",
+      "html": "<p>ProFinders is part of the <a href=\"https://shmor.ai/\">Shmor.ai</a> network. Some links are referral links, so a partner platform may pay us a fee when we introduce you. This never changes what you pay. <a href=\"https://shmor.ai/affiliate-disclosure/\">More about how we make money</a>.</p>"
+    },
+    {
+      "h2": "Tips for choosing a professional",
+      "html": "<ul><li>Check qualifications and, for lawyers and accountants, licensing or regulatory status.</li><li>Read independent reviews and ask for references.</li><li>Get the scope and price agreed in writing.</li><li>Compare at least two or three quotes.</li></ul>"
+    }
+  ],
+  "related": [
+    "services",
+    "hr-consultants",
+    "accountants"
+  ],
+  "relatedTitle": "Get started",
+  "ctaTitle": "What does your business need help with?"
+}

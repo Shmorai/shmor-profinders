@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-13",
+  "slug": "hr-consultants",
+  "nav": "HR consultants",
+  "navOrder": 2,
+  "title": "Find an HR Consultant for Your Business | Free Quotes",
+  "description": "Need HR help for your company? Compare quotes from experienced HR consultants for policies, contracts, disciplinaries, grievances and outsourced HR support.",
+  "keywords": [
+    "HR consultants",
+    "HR consultant near me",
+    "find an HR consultant",
+    "HR consultant for small business",
+    "hire an HR consultant"
+  ],
+  "cardText": "Employment contracts and staff handbooks · Disciplinary, grievance and absence management · Redundancies, layoffs and restructuring",
+  "eyebrow": "People & Legal",
+  "h1": "Find an experienced HR consultant for your business",
+  "intro": "Whether you are hiring your first employee or managing a growing team, the right HR consultant keeps you compliant, protects you from costly disputes and frees up your time. Tell us what you need and get matched with HR professionals who can help.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758520144437-f068ecaf0d83",
+    "alt": "HR consultant meeting a candidate at an office desk",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "searchPlaceholder": "Search services, e.g. “payroll” or “contracts”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe what you need once and hear back from HR consultants. No fee to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, approach and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "You only hire if you find the right fit. You deal directly with the professional."
+    }
+  ],
+  "partnersTitle": "Get free quotes from HR consultants",
+  "sections": [
+    {
+      "h2": "What can an HR consultant help with?",
+      "html": "<ul><li>Employment contracts and staff handbooks</li><li>Disciplinary, grievance and absence management</li><li>Redundancies, layoffs and restructuring</li><li>Recruitment, onboarding and right-to-work (or I-9) checks</li><li>HR policies, procedures and compliance audits</li><li>Ongoing outsourced or part-time HR support</li></ul>"
+    },
+    {
+      "h2": "When should you hire an HR consultant?",
+      "html": "<ul><li>You are taking on staff and need contracts and policies in place</li><li>A disciplinary or grievance issue has come up and you want to get the process right</li><li>You are planning redundancies, layoffs or changes to terms and conditions</li><li>Your business has outgrown ad-hoc HR but is not ready for a full-time HR manager</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<p>When you compare quotes, these questions help you find the right fit:</p><ol><li>What size and type of businesses do you usually work with?</li><li>Do you offer fixed-fee projects, retainers or pay-as-you-go?</li><li>Do you hold a recognised HR qualification (such as CIPD in the UK, or SHRM or HRCI in the US)?</li><li>Can you support us if an employee brings a claim?</li></ol>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Every business and project is different, so prices vary. The main factors are:</p><ul><li>One-off project vs. ongoing retainer</li><li>Number of employees and locations</li><li>Complexity and urgency of the issue</li><li>Whether employment law advice is also required</li></ul><p>The simplest way to understand the cost for your situation is to compare a few quotes side by side.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does an HR consultant do?",
+      "a": "An HR consultant advises businesses on people matters — from contracts and policies to managing performance, disciplinaries, redundancies and recruitment — and can act as your outsourced HR department."
+    },
+    {
+      "q": "Do small businesses need an HR consultant?",
+      "a": "Many small businesses use an HR consultant instead of employing a full-time HR manager. It gives you expert support when you need it, which helps you stay compliant with employment law and avoid disputes."
+    },
+    {
+      "q": "Is an HR consultant the same as an employment lawyer?",
+      "a": "Not quite. HR consultants focus on day-to-day people management and process. Employment lawyers give formal legal advice and represent you in tribunals and courts. Many businesses use both."
+    }
+  ],
+  "faqTitle": "HR Consultants: frequently asked questions",
+  "related": [
+    "employment-lawyers",
+    "business-consultants",
+    "accountants",
+    "how-it-works"
+  ],
+  "relatedTitle": "Related services",
+  "ctaTitle": "What else does your business need help with?"
+}
