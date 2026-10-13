@@ -21,7 +21,7 @@ Top menu (`navOrder`): All services, HR consultants, Employment lawyers, Account
 **Photos:** free-licence Unsplash images (not Unsplash+), credited, in each page's `"image"`.
 
 ## Search routing on shmor.ai
-`keywords` in `shmor-site.json`. The master's router does **substring** matching on `" " + query + " "`, so short words must be padded to match only whole words: `" hr "`, `" vat "`, `" cpa "`, `" seo "`, `" llc "`. Never add a bare 2–3 letter keyword ("hr" would match "christmas"). Tested: "need help with company hr", "employment lawyer", "it support for small business" and "vat return help" go to ProFinders; "plumber near me" and "contractor quote" stay with Shmor Pros (tradespeople).
+`keywords` in `shmor-site.json`. The master's router does **substring** matching on `" " + query + " "`, so short words must be padded to match only whole words: `" hr "`, `" vat "`, `" cpa "`, `" seo "`, `" llc "`. Never add a bare 2–3 letter keyword ("hr" would match "christmas"). Tested: "need help with company hr", "employment lawyer", "it support for small business" and "vat return help" go to ProFinders; "contractor quote" stays with Shmor Pros (tradespeople); plumbing searches ("plumber near me") go to LocalPlumbers.
 
 ## Commands (run here)
 ```bash
