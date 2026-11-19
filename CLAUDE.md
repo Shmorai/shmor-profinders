@@ -44,5 +44,8 @@ None yet. The user plans to refer leads to **Bark** (or similar quote marketplac
 - Honesty rules: footer and FAQs say ProFinders is an introduction service that doesn't employ or vet professionals and may earn referral fees. Content gives general guidance only (not legal/tax advice). No invented reviews, ratings, prices or "X pros" counts.
 - Chat setup: this site has its own pinned chat titled "ProFinders".
 
+## Affiliate partners (live)
+- **FlexJobs** (CJ 5113136, added 2026-11-19): $7 per subscription, 1-day referral period; no brand bidding, no Google Ads. Code for the **ProFinders property (PID 101926862)**: `cj5113136-home-pf` (`-pf` because ProSourced uses `cj5113136-home`). Placed: one line in the home page's "Not sure who you need?" section. Corel, 24-7PressRelease and AOMEI (on ProSourced) would also fit here (web-designers, social-media-marketing, it-support).
+
 ## Ideas / next
 Bark (or other) referral link · the user's .com domain + design · more service pages (recruitment agencies, payroll providers, copywriters, SEO agencies, video production, translation) · a blog answering what people search for (e.g. "how to handle a disciplinary", "do I need an accountant for a limited company") · US/UK location pages only if they carry genuinely unique content.
