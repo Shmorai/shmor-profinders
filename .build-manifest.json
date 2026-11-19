@@ -1,5 +1,7 @@
 [
   "accountants/index.html",
+  "blog/employment-rights-act-2025-key-dates/index.html",
+  "blog/index.html",
   "bookkeepers/index.html",
   "business-consultants/index.html",
   "business-lawyers/index.html",
@@ -14,6 +16,7 @@
   "search/index.html",
   "search-index.json",
   "404.html",
+  "blog/feed.xml",
   "sitemap.xml",
   "robots.txt"
 ]

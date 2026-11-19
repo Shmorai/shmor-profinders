@@ -1,0 +1,30 @@
+{
+  "updated": "2026-11-19",
+  "slug": "blog",
+  "type": "blog",
+  "title": "Business Guides & Blog | ProFinders",
+  "description": "Plain-English guides for business owners: HR and employment law changes, accountancy, IT, marketing and choosing the right professional.",
+  "nav": "Blog",
+  "navOrder": 7,
+  "eyebrow": "HR · Legal · Accounts · IT · Marketing",
+  "h1": "Business guides",
+  "intro": "What changes for your business, what it means, and who can help: guides on employment rules, tax, IT and hiring professionals, checked against official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
+    "alt": "Business team in a meeting around a table",
+    "credit": "Dylan Gillis",
+    "creditUrl": "https://unsplash.com/@mainermedia"
+  },
+  "search": false,
+  "listTitle": "Latest guides",
+  "keywords": [
+    "business blog",
+    "hr guides",
+    "employment law updates uk",
+    "small business guides",
+    "accountancy guides",
+    "it support guides",
+    "hiring professionals guide"
+  ],
+  "cardText": "Guides for business owners on HR, legal, accounts and IT."
+}
