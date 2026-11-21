@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-11-21",
   "slug": "services",
   "nav": "All services",
   "navOrder": 1,
@@ -33,5 +33,25 @@
     "it-support"
   ],
   "relatedTitle": "Choose a service",
-  "ctaTitle": "Can’t see what you need? Search"
+  "ctaTitle": "Can’t see what you need? Search",
+  "sections": [
+    {
+      "h2": "Which professional do you need?",
+      "html": "<p>People often search for the wrong specialist first. A short guide: an <a href=\"/accountants/\">accountant</a> deals with tax, accounts and advice; a <a href=\"/bookkeepers/\">bookkeeper</a> keeps your day-to-day records; an <a href=\"/employment-lawyers/\">employment lawyer</a> advises on contracts and disputes; and an <a href=\"/hr-consultants/\">HR consultant</a> helps with policies and people processes. If you are unsure, start with the page closest to your problem and use its questions to decide.</p>"
+    },
+    {
+      "h2": "Comparing providers sensibly",
+      "html": "<p>Whatever the service, compare scope and what is included, not just price, check qualifications with the relevant professional body, and ask for terms in writing. Our walkthrough on <a href=\"/blog/how-to-choose-an-accountant-small-business/\">choosing an accountant</a> shows the approach, and it works for most professional services.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are the professionals on ProFinders vetted?",
+      "a": "No. ProFinders is an introduction service and does not employ, vet or guarantee professionals, so check qualifications and terms yourself before you hire."
+    },
+    {
+      "q": "Is the information on these pages legal or tax advice?",
+      "a": "No. The pages give general guidance only. For advice on your own situation, speak to a qualified professional."
+    }
+  ]
 }

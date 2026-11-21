@@ -1,0 +1,75 @@
+{
+  "updated": "2026-11-21",
+  "date": "2026-11-21",
+  "type": "post",
+  "slug": "blog/how-to-choose-an-accountant-small-business",
+  "title": "How to Choose an Accountant for Your Small Business",
+  "description": "How to choose an accountant for a small business in the UK: what to check, questions to ask, and how Making Tax Digital changes what you need from 2026.",
+  "h1": "How to choose an accountant for your small business",
+  "eyebrow": "Accountants · UK small business",
+  "intro": "A good accountant saves time and stress as well as tax; a poor fit costs you either. Here is a practical way to shortlist, check and compare accountants, and why Making Tax Digital is worth raising in your first conversation.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554224154-26032ffc0d07",
+    "alt": "Tax paperwork, a pen and a phone calculator on a desk",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "keywords": [
+    "how to choose an accountant",
+    "how to choose an accountant for small business",
+    "do i need an accountant",
+    "finding an accountant uk",
+    "accountant for sole trader",
+    "accountant for limited company",
+    "questions to ask an accountant",
+    "making tax digital accountant",
+    "chartered accountant small business"
+  ],
+  "cardText": "How to shortlist, check and compare accountants for a small business, including Making Tax Digital dates.",
+  "sections": [
+    {
+      "h2": "Start with what you actually need",
+      "html": "<p>Accountants do different jobs, and prices follow the scope. Write down which of these you need before you phone anyone:</p><ul><li><strong>Year-end accounts and tax returns</strong> (Self Assessment or company accounts)</li><li><strong>Bookkeeping</strong> day to day, or just checking your own records (see <a href=\"/bookkeepers/\">bookkeepers</a>)</li><li><strong>VAT, payroll or CIS</strong> returns</li><li><strong>Advice</strong> on structure, growth or a sale</li></ul><p>Sole traders, partnerships and limited companies have different filing duties, so say which you are.</p>"
+    },
+    {
+      "h2": "How to check an accountant before you hire",
+      "html": "<ul><li><strong>Ask which professional body they belong to</strong> (for example ICAEW, ACCA, AAT, CIOT or ICAS) and look them up on that body's own directory or membership check rather than taking a logo on a website as proof. ICAEW publishes a <em>Find a Chartered Accountant</em> directory and a membership verification page.</li><li><strong>Ask about experience with businesses like yours,</strong> in your sector and at your size.</li><li><strong>Ask about professional indemnity insurance</strong> and how complaints are handled.</li><li><strong>Compare at least two or three.</strong> Our <a href=\"/accountants/\">accountants page</a> explains how to get several free quotes side by side.</li></ul>"
+    },
+    {
+      "h2": "Questions worth asking in the first call",
+      "html": "<ol><li>What exactly is included in the fee, and what costs extra?</li><li>Do you work with my software, or will you recommend one?</li><li>Who will I actually deal with, and how quickly do you reply?</li><li>Will you submit returns on my behalf, and how do you handle HMRC authorisation?</li><li>Do you help with Making Tax Digital?</li></ol><p>Ask for the scope and fee in writing in an engagement letter, so you know what happens if your business changes mid-year.</p>"
+    },
+    {
+      "h2": "Why Making Tax Digital matters for your choice",
+      "html": "<p>Making Tax Digital for Income Tax means sole traders and landlords with qualifying income above the threshold keep digital records and send updates using compatible software. According to GOV.UK, as of November 2026:</p><ul><li>Over <strong>£50,000</strong> qualifying income: start from <strong>6 April 2026</strong></li><li>Over <strong>£30,000</strong>: start from <strong>6 April 2027</strong></li><li>Over <strong>£20,000</strong>: start from <strong>6 April 2028</strong></li></ul><p>The thresholds are tied to qualifying income in an earlier tax year, and you must be registered for Self Assessment. GOV.UK has an eligibility tool, and an accountant can act for you as an agent. If you are near a threshold, ask any accountant how they will handle digital records and quarterly updates, and whether they are set up to do it. A <a href=\"/bookkeepers/\">bookkeeper</a> may be the better day-to-day help.</p>"
+    },
+    {
+      "h2": "Fees, fit and red flags",
+      "html": "<p>Cheapest is not always best, and prices vary widely, so we do not quote figures here. Compare what is included. Be wary of anyone who promises to cut your tax bill by a guaranteed amount or is unwilling to explain what they will do in plain English. Also keep your own records in order; <a href=\"/blog/employment-rights-act-2025-key-dates/\">employers should read our Employment Rights Act timeline</a> too, since payroll and HR changes affect your accountant's work.</p><p>Not sure whether you need an accountant, a bookkeeper or an adviser? <a href=\"/how-it-works/\">See how ProFinders works</a> or browse <a href=\"/services/\">all services</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an accountant as a sole trader?",
+      "a": "There is no legal requirement to use one. Many sole traders file their own Self Assessment return. An accountant can help if your records are complex, you are near a Making Tax Digital threshold or you want advice on growing the business."
+    },
+    {
+      "q": "What qualifications should an accountant have?",
+      "a": "Ask which professional body they belong to, such as ICAEW, ACCA, AAT, CIOT or ICAS, and verify membership on that body's own directory instead of relying on a website badge."
+    },
+    {
+      "q": "When does Making Tax Digital for Income Tax start?",
+      "a": "Per GOV.UK, from 6 April 2026 if qualifying income is over £50,000, from 6 April 2027 if over £30,000 and from 6 April 2028 if over £20,000. Check GOV.UK for the latest rules."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Find out if and when you need to use Making Tax Digital for Income Tax",
+      "url": "https://www.gov.uk/guidance/find-out-if-and-when-you-need-to-use-making-tax-digital-for-income-tax"
+    },
+    {
+      "title": "ICAEW: Hiring an accountant, a small business guide",
+      "url": "https://www.icaew.com/about-icaew/find-a-chartered-accountant/icaew-business-advice-service/running-your-business/hiring-an-accountant-a-small-business-guide"
+    }
+  ]
+}
