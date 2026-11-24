@@ -1,0 +1,83 @@
+{
+  "updated": "2026-11-24",
+  "date": "2026-11-24",
+  "type": "post",
+  "slug": "blog/christmas-party-tax-employers-guide",
+  "title": "Staff Christmas Party Tax: The £150 Rule Explained",
+  "description": "Staff Christmas party tax for UK employers: how the £150 per head exemption works, what counts in the cost, trivial benefits and when a party becomes taxable.",
+  "h1": "Staff Christmas party tax: the £150 per head rule explained for employers",
+  "eyebrow": "Accountants · Employer tax",
+  "intro": "A staff Christmas party can be tax-free for employer and employees, but only if it meets HMRC's conditions. Go over the limit and the whole cost can become taxable. Here is how the annual functions exemption and the trivial benefits rule work, based on HMRC's own guidance.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Christmas_at_the_table_-_Flickr_-_a_whisper_of_unremitting_demand.jpg/1920px-Christmas_at_the_table_-_Flickr_-_a_whisper_of_unremitting_demand.jpg",
+    "alt": "Wine glasses and paper party hats on a dining table beneath blurred festive lights",
+    "credit": "Julian Povey / CC BY 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Christmas_at_the_table_-_Flickr_-_a_whisper_of_unremitting_demand.jpg"
+  },
+  "keywords": [
+    "christmas party tax",
+    "staff christmas party tax uk",
+    "£150 christmas party limit",
+    "christmas party tax exemption",
+    "annual function exemption",
+    "trivial benefits christmas gift",
+    "is a work christmas party taxable",
+    "hmrc christmas party rules",
+    "employer christmas party cost per head"
+  ],
+  "cardText": "How the £150 per head exemption and £50 trivial benefits rule work for UK employers.",
+  "sections": [
+    {
+      "h2": "The £150 per head annual function exemption",
+      "html": "<p>HMRC treats an annual party, such as a Christmas party or summer barbecue, as tax-free for employees when the cost per head does not exceed <strong>£150</strong>. The event must be an annual function open to employees generally. Virtual events can qualify too, if the other conditions are met.</p><p>A one-off event, such as a 25th anniversary party, does not count as annual. If you have several locations, the function needs to be available generally to staff at one location, and you can hold separate parties for different departments at one site as long as everyone there can attend one.</p>"
+    },
+    {
+      "h2": "What counts towards the £150 cost per head",
+      "html": "<ul><li>The cost <strong>includes VAT</strong>.</li><li>It includes any <strong>transport or overnight accommodation</strong> you provide so staff can attend.</li><li>You divide the total cost by <strong>everyone who attends</strong>, including non-employee guests, to get the cost per head.</li></ul><p>Add up everything: food, drink, venue, entertainment, taxis and a hotel if staff stay overnight. A modest meal can cross the limit once taxis and a room are added.</p>"
+    },
+    {
+      "h2": "Several events in a year, and going over the limit",
+      "html": "<p>The £150 is a combined limit for the tax year. If you hold more than one annual function, calculate the cost per head of each and add them together. If the total is £150 or less, no tax charge arises. If it is more, the functions that make best use of the £150 are exempt and the rest are taxable.</p><p>HMRC says the £150 is <strong>not an allowance</strong>. For a function outside the exemption, the charge is on the full cost per head, not just the amount over £150. For a function outside the exemption, guests who are an employee's family or household members are also taxed on their share of the cost.</p>"
+    },
+    {
+      "h2": "Christmas gifts and the trivial benefits rule",
+      "html": "<p>A small gift can be exempt as a <strong>trivial benefit</strong> if all of these apply: it costs <strong>£50 or less</strong> (average cost per head for group benefits), it is not cash or a cash voucher, it is not a contractual entitlement (including salary sacrifice), and it is not a reward for particular work. Directors and other office holders of close companies, and their families, are capped at £300 in a tax year.</p><p>Check the position with your adviser if you are unsure whether a gift or party qualifies. Our <a href=\"/accountants/\">accountants page</a> explains how to compare quotes, and <a href=\"/blog/how-to-choose-an-accountant-small-business/\">how to choose an accountant for your small business</a> covers what to ask. Payroll queries can also fit <a href=\"/bookkeepers/\">bookkeepers</a>.</p>"
+    },
+    {
+      "h2": "Before you book: a quick checklist",
+      "html": "<ol><li>Is the event annual and open to all staff (or all staff at a site)?</li><li>Have you totalled the cost including VAT, transport and accommodation, divided by all attendees?</li><li>Does it, with any other annual functions, stay within £150 per head this tax year?</li><li>Are gifts under £50, non-cash and not a reward for work?</li><li>Do any staff use salary sacrifice? HMRC says the value of social functions must be reported to employees in such arrangements.</li></ol><p>Employment law questions around events, such as dress, alcohol and inclusion, are a matter for an <a href=\"/hr-consultants/\">HR consultant</a> or <a href=\"/employment-lawyers/\">employment lawyer</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a work Christmas party taxable?",
+      "a": "Not if it is an annual function open to employees generally and the cost per head, including VAT, transport and accommodation, does not exceed £150 for the year."
+    },
+    {
+      "q": "What happens if the party costs more than £150 per head?",
+      "a": "The £150 is not an allowance, so the employee is charged on the full cost per head for that function, not just the excess."
+    },
+    {
+      "q": "Can I give staff a Christmas gift tax-free?",
+      "a": "A gift can qualify as a trivial benefit if it costs £50 or less, is not cash or a cash voucher, is not contractual and is not a reward for work."
+    },
+    {
+      "q": "Do partners and guests count towards the cost per head?",
+      "a": "Yes, the total cost is divided by everyone attending, including non-employees. If a function falls outside the exemption, the employee is taxed on the cost for family or household guests."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Expenses and benefits: social functions and parties",
+      "url": "https://www.gov.uk/expenses-benefits-social-functions-parties/whats-exempt"
+    },
+    {
+      "title": "HMRC Employment Income Manual EIM21690: annual parties and other social functions",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21690"
+    },
+    {
+      "title": "HMRC Employment Income Manual EIM21864: trivial benefits",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21864"
+    }
+  ]
+}
