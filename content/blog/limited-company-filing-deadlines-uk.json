@@ -1,0 +1,83 @@
+{
+  "updated": "2026-11-26",
+  "date": "2026-11-26",
+  "type": "post",
+  "slug": "blog/limited-company-filing-deadlines-uk",
+  "title": "Limited Company Deadlines: Accounts and Tax Dates",
+  "description": "UK limited company deadlines explained: Companies House accounts, Company Tax Return, Corporation Tax payment, late filing penalties and when to hire help.",
+  "h1": "UK limited company deadlines: accounts, Company Tax Return and Corporation Tax",
+  "eyebrow": "Accounting · Compliance",
+  "intro": "Every UK private limited company has to file accounts and a tax return, and the deadlines are different for Companies House and HMRC. Here is how the dates work, what late filing costs, and when it pays to hand the job to an accountant.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1707902665498-a202981fb5ac",
+    "alt": "Person at a desk with a calculator and a notebook",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "keywords": [
+    "limited company filing deadlines",
+    "companies house accounts deadline",
+    "company tax return deadline",
+    "corporation tax payment deadline",
+    "first accounts limited company",
+    "late filing penalty companies house",
+    "limited company year end",
+    "do i need an accountant for a limited company",
+    "uk limited company tax dates"
+  ],
+  "cardText": "Companies House and HMRC deadlines for a UK limited company, and the cost of filing late.",
+  "sections": [
+    {
+      "h2": "What does a limited company have to file each year?",
+      "html": "<p>GOV.UK says every private limited company must prepare full statutory annual accounts and a Company Tax Return after its financial year ends. Your Corporation Tax accounting period is normally the same 12 months as your financial year. You can file with Companies House and HMRC together or separately.</p><p>Directors are legally responsible for filing on time, even if an accountant does the work. If you are unsure what you need, our guide on <a href=\"/blog/how-to-choose-an-accountant-small-business/\">how to choose an accountant</a> is a good start.</p>"
+    },
+    {
+      "h2": "The four dates to put in your diary",
+      "html": "<p>As set out by GOV.UK:</p><ul><li><strong>First accounts:</strong> due at Companies House 21 months after you registered the company.</li><li><strong>Annual accounts:</strong> due at Companies House 9 months after the financial year ends.</li><li><strong>Corporation Tax payment:</strong> 9 months and 1 day after the accounting period ends (or tell HMRC that none is owed).</li><li><strong>Company Tax Return:</strong> due at HMRC 12 months after the accounting period ends.</li></ul><p>Notice that the tax <em>payment</em> comes three months before the tax <em>return</em>. Many new directors miss this. Extra steps apply at the end of the first year and when restarting a dormant company.</p>"
+    },
+    {
+      "h2": "What happens if you file late?",
+      "html": "<p>Companies House sets automatic penalties for late accounts on private companies. As of November 2026, its published scale is:</p><ul><li>up to 1 month late: £150</li><li>1 to 3 months late: £375</li><li>3 to 6 months late: £750</li><li>more than 6 months late: £1,500</li></ul><p>The penalty doubles if you are late in two successive financial years. HMRC has its own penalties for late returns and late payment, and the guidance does not list the amounts in one place, so check GOV.UK for the current figures. Penalties can change, so confirm with the official page before relying on any number.</p>"
+    },
+    {
+      "h2": "Keep your records for the right length of time",
+      "html": "<p>Company records should be kept for 6 years from the end of the last financial year they relate to, and longer in some cases, such as when a Company Tax Return was sent late or HMRC has opened a compliance check. HMRC can fine a company £3,000 for not keeping accounting records, and a director can be disqualified. If your books are in a mess, a <a href=\"/bookkeepers/\">bookkeeper</a> can often tidy them before the year-end.</p>"
+    },
+    {
+      "h2": "When is it worth hiring an accountant?",
+      "html": "<p>Many directors hire an accountant once there is a payroll, VAT registration, dividends or a first set of accounts to prepare. Ask what is included in the fee, who files with each body, and how they will remind you of dates. Compare a few quotes on our <a href=\"/accountants/\">accountants page</a>; ProFinders is an introduction service and does not vet or employ professionals.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When are my first company accounts due?",
+      "a": "GOV.UK says first accounts are due at Companies House 21 months after you registered with them."
+    },
+    {
+      "q": "Is the Corporation Tax payment date the same as the Company Tax Return date?",
+      "a": "No. Payment is due 9 months and 1 day after the accounting period ends, while the Company Tax Return is due 12 months after it ends."
+    },
+    {
+      "q": "What is the Companies House penalty for filing accounts late?",
+      "a": "For private companies the penalty rises from £150 (up to one month late) to £1,500 (more than six months late), and doubles if you are late two years running."
+    },
+    {
+      "q": "Do I still have to file if my company made no profit or is dormant?",
+      "a": "Generally yes. Private limited companies must still file accounts, and a dormant company has its own rules. Check the dormant company guidance on GOV.UK or ask an accountant."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Prepare and file your annual accounts and Company Tax Return",
+      "url": "https://www.gov.uk/prepare-file-annual-accounts-for-limited-company"
+    },
+    {
+      "title": "GOV.UK: Company and accounting records",
+      "url": "https://www.gov.uk/running-a-limited-company/company-and-accounting-records"
+    },
+    {
+      "title": "GOV.UK: Late filing penalties (Companies House)",
+      "url": "https://www.gov.uk/government/publications/late-filing-penalties/late-filing-penalties"
+    }
+  ]
+}
